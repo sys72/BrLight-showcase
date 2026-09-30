@@ -48,9 +48,9 @@ Desenvolvido sob a filosofia oriental **Shokunin** de excelência técnica absol
  
 <p align="center">
   <img src="assets/screenshots/hero_showcase_ptbr.png" width="23%" alt="Vitrine Interativa do BrLight" />
-  <img src="assets/screenshots/screen_slide_1.webp" width="23%" alt="Tela Inicial do BrLight" />
-  <img src="assets/screenshots/screen_slide_2.webp" width="23%" alt="Menu de Atalhos Dinâmicos" />
-  <img src="assets/screenshots/screen_slide_3.webp" width="23%" alt="Ícone Adaptativo no One UI" />
+  <img src="assets/screenshots/screen_slide_1.png" width="23%" alt="Tela Inicial do BrLight" />
+  <img src="assets/screenshots/screen_slide_2.png" width="23%" alt="Menu de Atalhos Dinâmicos" />
+  <img src="assets/screenshots/screen_slide_3.png" width="23%" alt="Ícone Adaptativo no One UI" />
 </p>
 
 ---
