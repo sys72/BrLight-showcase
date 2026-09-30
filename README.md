@@ -44,12 +44,13 @@ Engineered under the **Shokunin** philosophy of absolute technical excellence, B
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots & Showcase
 
 <p align="center">
-  <img src="assets/screenshots/screen_slide_1.webp" width="30%" alt="BrLight Home Screen" />
-  <img src="assets/screenshots/screen_slide_2.webp" width="30%" alt="App Shortcuts Menu" />
-  <img src="assets/screenshots/screen_slide_3.webp" width="30%" alt="Adaptive Icon on One UI" />
+  <img src="assets/screenshots/hero_showcase_en.png" width="23%" alt="BrLight Interactive Showcase" />
+  <img src="assets/screenshots/screen_slide_1.webp" width="23%" alt="BrLight Home Screen" />
+  <img src="assets/screenshots/screen_slide_2.webp" width="23%" alt="App Shortcuts Menu" />
+  <img src="assets/screenshots/screen_slide_3.webp" width="23%" alt="Adaptive Icon on One UI" />
 </p>
 
 ---
