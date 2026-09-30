@@ -9,21 +9,22 @@
   <em>Clean Software. Built for Humans.</em>
 </p>
 
-<p align="center">
-  <a href="https://github.com/sys72/BrLight-showcase/releases/latest"><img src="https://img.shields.io/badge/Version-1.1.7-brightgreen.svg" alt="Version 1.1.7" /></a>
-  <img src="https://img.shields.io/badge/Size-29.9_KB-blue.svg" alt="Size 29.9 KB" />
-  <img src="https://img.shields.io/badge/Ads-ZERO-red.svg" alt="Zero Ads" />
-  <img src="https://img.shields.io/badge/Network-0%20Permissions-orange.svg" alt="Zero Network Permission" />
-  <img src="https://img.shields.io/badge/SOS-ITU--R%20M.1677--1-yellow.svg" alt="ITU-R M.1677-1" />
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-lightgrey.svg" alt="License" /></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="README-pt-BR.md">🇧🇷 Versão em Português</a> •
-  <a href="https://app.sys72.com/brlight/">🌐 Live Web Demo</a> •
-  <a href="https://youtube.com/shorts/s54Z85S_J50">🎬 YouTube Showcase</a> •
-  <a href="https://github.com/sys72/BrLight-showcase/releases/latest">📦 Download APK</a>
-</p>
+[![Version](https://img.shields.io/badge/Version-1.1.7-brightgreen.svg)](https://github.com/sys72/BrLight-showcase/releases/latest)
+![Size](https://img.shields.io/badge/Size-29.9_KB-blue.svg)
+![Ads](https://img.shields.io/badge/Ads-ZERO-red.svg)
+![Network](https://img.shields.io/badge/Network-0%20Permissions-orange.svg)
+![SOS](https://img.shields.io/badge/SOS-ITU--R%20M.1677--1-yellow.svg)
+[![License](https://img.shields.io/badge/License-Apache%202.0-lightgrey.svg)](LICENSE)
+
+</div>
+
+<div align="center">
+
+[🇧🇷 Versão em Português](README-pt-BR.md) • [🌐 Live Web Demo](https://app.sys72.com/brlight/) • [🎬 YouTube Showcase](https://youtube.com/shorts/s54Z85S_J50) • [📦 Download APK](https://github.com/sys72/BrLight-showcase/releases/latest)
+
+</div>
 
 ---
 
