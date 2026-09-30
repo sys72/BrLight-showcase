@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/sys72/BrLight-showcase/releases/latest"><img src="https://img.shields.io/badge/Version-1.1.7-brightgreen.svg" alt="Version 1.1.7" /></a>
-  <img src="https://img.shields.io/badge/Size-30.5_KB-blue.svg" alt="Size 30.5 KB" />
+  <img src="https://img.shields.io/badge/Size-29.9_KB-blue.svg" alt="Size 29.9 KB" />
   <img src="https://img.shields.io/badge/Ads-ZERO-red.svg" alt="Zero Ads" />
   <img src="https://img.shields.io/badge/Network-0%20Permissions-orange.svg" alt="Zero Network Permission" />
   <img src="https://img.shields.io/badge/SOS-ITU--R%20M.1677--1-yellow.svg" alt="ITU-R M.1677-1" />
@@ -36,7 +36,7 @@ Most flashlight apps on the market today are bloated spyware: 50 MB downloads, f
 Engineered under the **Shokunin** philosophy of absolute technical excellence, BrLight is a single-purpose utility built exclusively to turn your smartphone's LED into a reliable, instant flashlight — and nothing else.
 
 - **Instant 1-Tap Toggle (0 ms):** Tap the app icon and the LED turns on immediately. No splash screens, no user interface, zero latency.
-- **Microscopic Footprint (30.5 KB):** The entire application is smaller than a single low-resolution photo. It installs in milliseconds and uses virtually zero storage.
+- **Microscopic Footprint (29.9 KB):** The entire application is smaller than a single low-resolution photo. It installs in milliseconds and uses virtually zero storage.
 - **ZERO Ads. ZERO Tracking. ZERO Telemetry:** No Google AdMob, no analytics, no third-party SDKs. It does not even request the `android.permission.INTERNET` permission — it is physically incapable of connecting to the network.
 - **True Military SOS (ITU-R M.1677-1):** Unlike other apps that flash randomly, BrLight emits the international standard Morse code (`··· ——— ···`) recognized globally by search-and-rescue teams (SAR).
 - **Soft Light / Reading Mode:** On devices running Android 13+ (API 33+), hardware-level voltage control provides a gentle, low-intensity beam that won't blind your night vision.
@@ -60,7 +60,7 @@ Always verify the cryptographic integrity of your download:
 
 | Artifact | Version | File Size | SHA-256 Checksum |
 | :--- | :---: | :---: | :--- |
-| **`BrLight-v1.1.7.apk`** | `1.1.7` | `30.5 KB` | `a01adecb96deed31ca5b629990481ef3a10a095c51f2cb32798d3bea09b8c71f` |
+| **`BrLight-v1.1.7.apk`** | `1.1.7` | `29.9 KB` | `a01adecb96deed31ca5b629990481ef3a10a095c51f2cb32798d3bea09b8c71f` |
 
 👉 **[Download the Latest Release (APK)](https://github.com/sys72/BrLight-showcase/releases/latest)**
 

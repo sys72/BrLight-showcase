@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/sys72/BrLight-showcase/releases/latest"><img src="https://img.shields.io/badge/Versão-1.1.7-brightgreen.svg" alt="Versão 1.1.7" /></a>
-  <img src="https://img.shields.io/badge/Tamanho-30.5_KB-blue.svg" alt="Tamanho 30.5 KB" />
+  <img src="https://img.shields.io/badge/Tamanho-29.9_KB-blue.svg" alt="Tamanho 29.9 KB" />
   <img src="https://img.shields.io/badge/Anúncios-ZERO-red.svg" alt="Zero Anúncios" />
   <img src="https://img.shields.io/badge/Internet-0%20Permissões-orange.svg" alt="Zero Permissão de Internet" />
   <img src="https://img.shields.io/badge/SOS-ITU--R%20M.1677--1-yellow.svg" alt="ITU-R M.1677-1" />
@@ -36,7 +36,7 @@ A maioria dos aplicativos de lanterna na Play Store hoje se tornou um pesadelo: 
 Desenvolvido sob a filosofia oriental **Shokunin** de excelência técnica absoluta, o BrLight é um utilitário de propósito único construído exclusivamente para transformar o LED do seu celular em uma lanterna instantânea e confiável — e nada além disso.
 
 - **1-Clique Seco Instantâneo (0 ms):** Tocou no ícone, a luz acende na hora. Sem telas de abertura, sem interfaces pesadas, zero latência.
-- **Tamanho Ridículo (30.5 KB):** O aplicativo inteiro é menor do que uma foto de baixa resolução. Instala em frações de segundo e não ocupa memória.
+- **Tamanho Ridículo (29.9 KB):** O aplicativo inteiro é menor do que uma foto de baixa resolução. Instala em frações de segundo e não ocupa memória.
 - **ZERO Anúncios. ZERO Rastreamento. ZERO Telemetria:** Sem AdMob, sem ferramentas de analytics, sem bibliotecas de terceiros. Nem sequer solicita a permissão `android.permission.INTERNET` no Android — é fisicamente incapaz de se comunicar com a rede.
 - **SOS Militar Internacional (ITU-R M.1677-1):** Ao contrário de outras lanternas que apenas piscam aleatoriamente, o BrLight emite a cadência oficial de socorro em Código Morse (`··· ——— ···`), reconhecida mundialmente por aeronaves e equipes de busca e salvamento (SAR).
 - **Luz Suave / Modo Leitura:** Em celulares com Android 13+ (API 33+), o controle de voltagem de hardware oferece uma iluminação atenuada e confortável que não agride a sua visão noturna.
@@ -60,7 +60,7 @@ Sempre confira a integridade criptográfica do arquivo baixado:
 
 | Arquivo | Versão | Tamanho | Checksum Forense (SHA-256) |
 | :--- | :---: | :---: | :--- |
-| **`BrLight-v1.1.7.apk`** | `1.1.7` | `30.5 KB` | `a01adecb96deed31ca5b629990481ef3a10a095c51f2cb32798d3bea09b8c71f` |
+| **`BrLight-v1.1.7.apk`** | `1.1.7` | `29.9 KB` | `a01adecb96deed31ca5b629990481ef3a10a095c51f2cb32798d3bea09b8c71f` |
 
 👉 **[Baixar a Release Mais Recente (APK)](https://github.com/sys72/BrLight-showcase/releases/latest)**
 
